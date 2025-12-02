@@ -4,7 +4,7 @@ from xml.sax.saxutils import escape
 
 # ================= 配置区域 =================
 # ⚠️ 确认你的 json 文件路径是否正确，如果文件名不一样，请修改这里
-INPUT_JSON_FILE = 'https://xyzrank.eddiehe.top/hot_episodes.json' # 假设这是你的热榜文件名
+INPUT_JSON_FILE = 'https://github.com/eddiehe99/xyzrank/raw/refs/heads/main/hot_episodes.json' # 假设这是你的热榜文件名
 OUTPUT_RSS_FILE = 'hot_episodes_feed.xml'
 # ===========================================
 
